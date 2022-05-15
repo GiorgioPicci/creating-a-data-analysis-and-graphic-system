@@ -1,4 +1,3 @@
-# creating-a-data-analysis-and-graphic-system
 
 <h1>creating-a-data-analysis-and-graphic-system</h1>
 
